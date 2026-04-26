@@ -185,7 +185,8 @@ Người dùng thao tác trên giao diện
 - Đăng nhập / Đăng ký
 - Quản lý giao dịch
 - Quản lý danh mục
-- Thống kê thu chi...
+- Thống kê thu chi
+- Xem biểu đồ danh mục...
 
 ---
 
