@@ -39,6 +39,46 @@
 
 ---
 
+## 📊 Sơ đồ hệ thống
+### Use-case Diagram
+![alt text](image-1.png)
+## Bảng ánh xạ yêu cầu chức năng với các Use-case
+![alt text](image-2.png)
+
+### Activity Diagram
+Biểu đồ hoạt động chức năng đăng ký
+![alt text](image-3.png)
+Biểu đồ hoạt động chức năng đăng nhập
+![alt text](image-4.png)
+Biểu đồ hoạt động chức năng thêm danh mục
+![alt text](image-5.png)
+Biểu đồ hoạt động chức năng sửa danh mục
+![alt text](image-6.png)
+Biểu đồ hoạt động chức năng xóa danh mục
+![alt text](image-7.png)
+Biểu đồ hoạt động chức năng thêm giao dịch
+![alt text](image-8.png)
+Biểu đồ hoạt động chức năng sửa giao dịch
+![alt text](image-9.png)
+Biểu đồ hoạt động chức năng xóa giao dịch
+![alt text](image-10.png)
+Biểu đồ hoạt động chức năng xem dashboard
+![alt text](image-11.png)
+Biểu đồ hoạt động chức năng xem biểu đồ danh mục
+![alt text](image-12.png)
+Biểu đồ hoạt động chức năng xem dòng tiền theo thời gian
+![alt text](image-13.png)
+Biểu đồ hoạt động chức năng lọc báo cáo
+![alt text](image-14.png)
+Biểu đồ hoạt động chức năng cập nhật hồ sơ cá nhân
+![alt text](image-15.png)
+
+### Sequence Diagram
+![Sequence](sequence.png)
+
+---
+
+
 ## 🔄 Luồng hoạt động của hệ thống
 
 ### 1. Luồng đăng nhập (R1)
@@ -123,6 +163,8 @@ Người dùng thao tác trên giao diện
 - Thống kê thu chi...
 
 ---
+
+
 
 ## 🚀 Hướng phát triển
 
