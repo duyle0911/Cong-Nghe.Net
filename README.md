@@ -3,7 +3,7 @@
 ## 👨‍🏫 Giảng viên hướng dẫn [TS. Phạm Ngọc Hưng]
 
 ## 👨‍💻 Nhóm sinh viên thực hiện
-- [Lê Đức Duy] - MSSV: [23010772]
+- [Lê Đức Duy] - MSSV: [23010772] [Nhóm trưởng]
 - [Trần Văn Dương] - MSSV: [23010244]
 - [Lê Mạnh Hùng] - MSSV: [23010123]
 
