@@ -216,7 +216,7 @@ Người dùng thao tác trên giao diện
 
 ## 🚀 Hướng phát triển
 
-# LỜI CẢM ƠN
+## LỜI CẢM ƠN
 
 Nhóm chúng em xin chân thành cảm ơn Thầy TS. Phạm Ngọc Hưng đã tận tình hướng dẫn, hỗ trợ và góp ý trong suốt quá trình thực hiện đề tài.
 Xin cảm ơn Trường Đại học Phenikaa và Khoa Công nghệ Thông tin đã tạo điều kiện học tập và nghiên cứu thuận lợi.
