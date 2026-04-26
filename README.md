@@ -74,7 +74,32 @@ Biểu đồ hoạt động chức năng cập nhật hồ sơ cá nhân
 ![alt text](image-15.png)
 
 ### Sequence Diagram
-![Sequence](sequence.png)
+Biểu đồ tuần tự chức năng đăng ký
+
+Biểu đồ tuần tự chức năng đăng nhập
+
+Biểu đồ tuần tự chức năng thêm danh mục
+
+Biểu đồ tuần tự chức năng sửa danh mục
+
+Biểu đồ tuần tự chức năng xóa danh mục
+
+Biểu đồ tuần tự chức năng thêm giao dịch
+
+Biểu đồ tuần tự chức năng sửa giao dịch
+
+Biểu đồ tuần tự chức năng xóa giao dịch
+
+Biểu đồ tuần tự chức năng xem dashboard
+
+Biểu đồ tuần tự chức năng xem biểu đồ danh mục
+
+Biểu đồ tuần tự chức năng xem dòng tiền theo thời gian
+
+Biểu đồ tuần tự chức năng lọc báo cáo
+
+Biểu đồ tuần tự chức năng cập nhật hồ sơ cá nhân
+
 
 ---
 
