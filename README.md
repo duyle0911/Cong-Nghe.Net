@@ -8,6 +8,7 @@
 - [Lê Mạnh Hùng] - MSSV: [23010123]
 
 ![Bảng phân công công việc](QuanLyTaiChinhCaNhan_Nhom06/images/Bangcongviec.png)
+![Phần trăm công việc](QuanLyTaiChinhCaNhan_Nhom06/images/phantramcongviec.png)
 
 ---
 
