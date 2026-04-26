@@ -216,4 +216,15 @@ Người dùng thao tác trên giao diện
 
 ## 🚀 Hướng phát triển
 
+# LỜI CẢM ƠN
 
+Nhóm chúng em xin chân thành cảm ơn Thầy TS. Phạm Ngọc Hưng đã tận tình hướng dẫn, hỗ trợ và góp ý trong suốt quá trình thực hiện đề tài.
+Xin cảm ơn Trường Đại học Phenikaa và Khoa Công nghệ Thông tin đã tạo điều kiện học tập và nghiên cứu thuận lợi.
+Chúng em cũng xin cảm ơn gia đình và bạn bè đã luôn động viên, hỗ trợ trong quá trình học tập.
+Do thời gian và kiến thức còn hạn chế, bài báo cáo khó tránh khỏi thiếu sót. Nhóm rất mong nhận được góp ý từ thầy cô để hoàn thiện hơn.
+
+---
+
+## 📞 Liên hệ
+
+Mọi thắc mắc xin vui lòng liên hệ: Email: [23010772@st.phenikaa-uni.edu.vn]
