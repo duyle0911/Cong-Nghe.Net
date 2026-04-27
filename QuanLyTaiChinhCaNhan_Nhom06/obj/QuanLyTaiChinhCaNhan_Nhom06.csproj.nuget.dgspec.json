@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Cong-Nghe.Net\\QuanLyTaiChinhCaNhan_Nhom06\\QuanLyTaiChinhCaNhan_Nhom06.csproj": {}
+    "D:\\Cong-Nghe.Net\\QuanLyTaiChinhCaNhan_Nhom06\\QuanLyTaiChinhCaNhan_Nhom06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Cong-Nghe.Net\\QuanLyTaiChinhCaNhan_Nhom06\\QuanLyTaiChinhCaNhan_Nhom06.csproj": {
+    "D:\\Cong-Nghe.Net\\QuanLyTaiChinhCaNhan_Nhom06\\QuanLyTaiChinhCaNhan_Nhom06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Cong-Nghe.Net\\QuanLyTaiChinhCaNhan_Nhom06\\QuanLyTaiChinhCaNhan_Nhom06.csproj",
+        "projectUniqueName": "D:\\Cong-Nghe.Net\\QuanLyTaiChinhCaNhan_Nhom06\\QuanLyTaiChinhCaNhan_Nhom06.csproj",
         "projectName": "QuanLyTaiChinhCaNhan_Nhom06",
-        "projectPath": "C:\\Users\\Admin\\Cong-Nghe.Net\\QuanLyTaiChinhCaNhan_Nhom06\\QuanLyTaiChinhCaNhan_Nhom06.csproj",
+        "projectPath": "D:\\Cong-Nghe.Net\\QuanLyTaiChinhCaNhan_Nhom06\\QuanLyTaiChinhCaNhan_Nhom06.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Cong-Nghe.Net\\QuanLyTaiChinhCaNhan_Nhom06\\obj\\",
+        "outputPath": "D:\\Cong-Nghe.Net\\QuanLyTaiChinhCaNhan_Nhom06\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
