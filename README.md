@@ -47,83 +47,83 @@
 ![Bảng ánh xạ yêu cầu chức năng với các Use-case](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Banganhxa.png)
 
 ### Activity Diagram
-Biểu đồ hoạt động chức năng đăng ký
+- Biểu đồ hoạt động chức năng đăng ký
 ![Activity Đăng ký](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acdangky.png)
 ---
-Biểu đồ hoạt động chức năng đăng nhập
+- Biểu đồ hoạt động chức năng đăng nhập
 ![Activity Đăng nhập](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acdangnhap.png)
 ---
-Biểu đồ hoạt động chức năng thêm danh mục
+- Biểu đồ hoạt động chức năng thêm danh mục
 ![Activity Thêm danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acthemdanhmuc.png)
 ---
-Biểu đồ hoạt động chức năng sửa danh mục
+- Biểu đồ hoạt động chức năng sửa danh mục
 ![Activity Sửa danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acsuadanhmuc.png)
 ---
-Biểu đồ hoạt động chức năng xóa danh mục
+- Biểu đồ hoạt động chức năng xóa danh mục
 ![Activity Xóa danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acxoadanhmuc.png)
 ---
-Biểu đồ hoạt động chức năng thêm giao dịch
+- Biểu đồ hoạt động chức năng thêm giao dịch
 ![Activity Thêm giao dịch](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acthemgiaodich.png)
 ---
-Biểu đồ hoạt động chức năng sửa giao dịch
+- Biểu đồ hoạt động chức năng sửa giao dịch
 ![Activity Sửa giao dịch](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acsuagiaodich.png)
 ---
-Biểu đồ hoạt động chức năng xóa giao dịch
+- Biểu đồ hoạt động chức năng xóa giao dịch
 ![Activity Xóa giao dịch](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acxoagiaodich.png)
 ---
-Biểu đồ hoạt động chức năng xem dashboard
+- Biểu đồ hoạt động chức năng xem dashboard
 ![Activity Xem Dashboard](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acxemdashboard.png)
 ---
-Biểu đồ hoạt động chức năng xem biểu đồ danh mục
+- Biểu đồ hoạt động chức năng xem biểu đồ danh mục
 ![Activity Xem biểu đồ danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acxembieudodanhmuc.png)
 ---
-Biểu đồ hoạt động chức năng xem dòng tiền theo thời gian
+- Biểu đồ hoạt động chức năng xem dòng tiền theo thời gian
 ![Activity Xem dòng tiền theo thời gian](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acxemdongtien.png)
 ---
-Biểu đồ hoạt động chức năng lọc báo cáo
+- Biểu đồ hoạt động chức năng lọc báo cáo
 ![Activity Lọc báo cáo](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Aclocbaocao.png)
 ---
-Biểu đồ hoạt động chức năng cập nhật hồ sơ cá nhân
+- Biểu đồ hoạt động chức năng cập nhật hồ sơ cá nhân
 ![Activity Cập nhật hồ sơ cá nhân](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Accapnhathoso.png)
 ---
 ### Sequence Diagram
-Biểu đồ tuần tự chức năng đăng ký
+- Biểu đồ tuần tự chức năng đăng ký
 ![Tuần tự Đăng ký](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-dangky.png)
 ---
-Biểu đồ tuần tự chức năng đăng nhập
+- Biểu đồ tuần tự chức năng đăng nhập
 ![Tuần tự Đăng nhập](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-danhnhap.png)
 ---
-Biểu đồ tuần tự chức năng thêm danh mục
+- Biểu đồ tuần tự chức năng thêm danh mục
 ![Tuần tự Thêm danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-themdanhmuc.png)
 ---
-Biểu đồ tuần tự chức năng sửa danh mục
+- Biểu đồ tuần tự chức năng sửa danh mục
 ![Tuần tự Sửa danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-suadanhmuc.png)
 ---
-Biểu đồ tuần tự chức năng xóa danh mục
+- Biểu đồ tuần tự chức năng xóa danh mục
 ![Tuần tự Xóa danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-xoadanhmuc.png)
 ---
-Biểu đồ tuần tự chức năng thêm giao dịch
+- Biểu đồ tuần tự chức năng thêm giao dịch
 ![Tuần tự Thêm giao dịch](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-themgiaodich.png)
 ---
-Biểu đồ tuần tự chức năng sửa giao dịch
+- Biểu đồ tuần tự chức năng sửa giao dịch
 ![Tuần tự Sửa giao dịch](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-suagiaodich.png)
 ---
-Biểu đồ tuần tự chức năng xóa giao dịch
+- Biểu đồ tuần tự chức năng xóa giao dịch
 ![Tuần tự Xóa giao dịch](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-xoagiaodich.png)
 ---
-Biểu đồ tuần tự chức năng xem dashboard
+- Biểu đồ tuần tự chức năng xem dashboard
 ![Tuần tự Xem Dashboard](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-xemdashboard.png)
 ---
-Biểu đồ tuần tự chức năng xem biểu đồ danh mục
+- Biểu đồ tuần tự chức năng xem biểu đồ danh mục
 ![Tuần tự Xem biểu đồ danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-xembieudodanhmuc.png)
 ---
-Biểu đồ tuần tự chức năng xem dòng tiền theo thời gian
+- Biểu đồ tuần tự chức năng xem dòng tiền theo thời gian
 ![Tuần tự Xem dòng tiền theo thời gian](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-xemdongtien.png)
 ---
-Biểu đồ tuần tự chức năng lọc báo cáo
+- Biểu đồ tuần tự chức năng lọc báo cáo
 ![Tuần tự Lọc báo cáo](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-locbaocao.png)
 ---
-Biểu đồ tuần tự chức năng cập nhật hồ sơ cá nhân
+- Biểu đồ tuần tự chức năng cập nhật hồ sơ cá nhân
 ![Tuần tự Cập nhật hồ sơ cá nhân](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-capnhathoso.png)
 ---
 
