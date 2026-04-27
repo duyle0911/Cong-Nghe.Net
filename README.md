@@ -7,8 +7,8 @@
 - [Trần Văn Dương] - MSSV: [23010244]
 - [Lê Mạnh Hùng] - MSSV: [23010123]
 
-![Bảng phân công công việc](QuanLyTaiChinhCaNhan_Nhom06/images/Bangcongviec.png)
-![Phần trăm công việc](QuanLyTaiChinhCaNhan_Nhom06/images/phantramcongviec.png)
+![Bảng phân công công việc](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Bangcongviec.png)
+![Phần trăm công việc](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/phantramcongviec.png)
 
 ---
 
@@ -42,89 +42,89 @@
 
 ## 📊 Sơ đồ hệ thống
 ### Use-case Diagram
-![Sơ đồ UseCase](QuanLyTaiChinhCaNhan_Nhom06/images/Usecase.png)
+![Sơ đồ UseCase](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Usecase.png)
 ## Bảng ánh xạ yêu cầu chức năng với các Use-case
-![Bảng ánh xạ yêu cầu chức năng với các Use-case](QuanLyTaiChinhCaNhan_Nhom06/images/Banganhxa.png)
+![Bảng ánh xạ yêu cầu chức năng với các Use-case](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Banganhxa.png)
 
 ### Activity Diagram
 Biểu đồ hoạt động chức năng đăng ký
-![Activity Đăng ký](QuanLyTaiChinhCaNhan_Nhom06/images/Acdangky.png)
+![Activity Đăng ký](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acdangky.png)
 ---
 Biểu đồ hoạt động chức năng đăng nhập
-![Activity Đăng nhập](QuanLyTaiChinhCaNhan_Nhom06/images/Acdangnhap.png)
+![Activity Đăng nhập](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acdangnhap.png)
 ---
 Biểu đồ hoạt động chức năng thêm danh mục
-![Activity Thêm danh mục](QuanLyTaiChinhCaNhan_Nhom06/images/Acthemdanhmuc.png)
+![Activity Thêm danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acthemdanhmuc.png)
 ---
 Biểu đồ hoạt động chức năng sửa danh mục
-![Activity Sửa danh mục](QuanLyTaiChinhCaNhan_Nhom06/images/Acsuadanhmuc.png)
+![Activity Sửa danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acsuadanhmuc.png)
 ---
 Biểu đồ hoạt động chức năng xóa danh mục
-![Activity Xóa danh mục](QuanLyTaiChinhCaNhan_Nhom06/images/Acxoadanhmuc.png)
+![Activity Xóa danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acxoadanhmuc.png)
 ---
 Biểu đồ hoạt động chức năng thêm giao dịch
-![Activity Thêm giao dịch](QuanLyTaiChinhCaNhan_Nhom06/images/Acthemgiaodich.png)
+![Activity Thêm giao dịch](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acthemgiaodich.png)
 ---
 Biểu đồ hoạt động chức năng sửa giao dịch
-![Activity Sửa giao dịch](QuanLyTaiChinhCaNhan_Nhom06/images/Acsuagiaodich.png)
+![Activity Sửa giao dịch](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acsuagiaodich.png)
 ---
 Biểu đồ hoạt động chức năng xóa giao dịch
-![Activity Xóa giao dịch](QuanLyTaiChinhCaNhan_Nhom06/images/Acxoagiaodich.png)
+![Activity Xóa giao dịch](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acxoagiaodich.png)
 ---
 Biểu đồ hoạt động chức năng xem dashboard
-![Activity Xem Dashboard](QuanLyTaiChinhCaNhan_Nhom06/images/Acxemdashboard.png)
+![Activity Xem Dashboard](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acxemdashboard.png)
 ---
 Biểu đồ hoạt động chức năng xem biểu đồ danh mục
-![Activity Xem biểu đồ danh mục](QuanLyTaiChinhCaNhan_Nhom06/images/Acxembieudodanhmuc.png)
+![Activity Xem biểu đồ danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acxembieudodanhmuc.png)
 ---
 Biểu đồ hoạt động chức năng xem dòng tiền theo thời gian
-![Activity Xem dòng tiền theo thời gian](QuanLyTaiChinhCaNhan_Nhom06/images/Acxemdongtien.png)
+![Activity Xem dòng tiền theo thời gian](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Acxemdongtien.png)
 ---
 Biểu đồ hoạt động chức năng lọc báo cáo
-![Activity Lọc báo cáo](QuanLyTaiChinhCaNhan_Nhom06/images/Aclocbaocao.png)
+![Activity Lọc báo cáo](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Aclocbaocao.png)
 ---
 Biểu đồ hoạt động chức năng cập nhật hồ sơ cá nhân
-![Activity Cập nhật hồ sơ cá nhân](QuanLyTaiChinhCaNhan_Nhom06/images/Accapnhathoso.png)
+![Activity Cập nhật hồ sơ cá nhân](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/Accapnhathoso.png)
 ---
 ### Sequence Diagram
 Biểu đồ tuần tự chức năng đăng ký
-![Tuần tự Đăng ký](QuanLyTaiChinhCaNhan_Nhom06/images/TT-dangky.png)
+![Tuần tự Đăng ký](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-dangky.png)
 ---
 Biểu đồ tuần tự chức năng đăng nhập
-![Tuần tự Đăng nhập](QuanLyTaiChinhCaNhan_Nhom06/images/TT-danhnhap.png)
+![Tuần tự Đăng nhập](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-danhnhap.png)
 ---
 Biểu đồ tuần tự chức năng thêm danh mục
-![Tuần tự Thêm danh mục](QuanLyTaiChinhCaNhan_Nhom06/images/TT-themdanhmuc.png)
+![Tuần tự Thêm danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-themdanhmuc.png)
 ---
 Biểu đồ tuần tự chức năng sửa danh mục
-![Tuần tự Sửa danh mục](QuanLyTaiChinhCaNhan_Nhom06/images/TT-suadanhmuc.png)
+![Tuần tự Sửa danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-suadanhmuc.png)
 ---
 Biểu đồ tuần tự chức năng xóa danh mục
-![Tuần tự Xóa danh mục](QuanLyTaiChinhCaNhan_Nhom06/images/TT-xoadanhmuc.png)
+![Tuần tự Xóa danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-xoadanhmuc.png)
 ---
 Biểu đồ tuần tự chức năng thêm giao dịch
-![Tuần tự Thêm giao dịch](QuanLyTaiChinhCaNhan_Nhom06/images/TT-themgiaodich.png)
+![Tuần tự Thêm giao dịch](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-themgiaodich.png)
 ---
 Biểu đồ tuần tự chức năng sửa giao dịch
-![Tuần tự Sửa giao dịch](QuanLyTaiChinhCaNhan_Nhom06/images/TT-suagiaodich.png)
+![Tuần tự Sửa giao dịch](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-suagiaodich.png)
 ---
 Biểu đồ tuần tự chức năng xóa giao dịch
-![Tuần tự Xóa giao dịch](QuanLyTaiChinhCaNhan_Nhom06/images/TT-xoagiaodich.png)
+![Tuần tự Xóa giao dịch](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-xoagiaodich.png)
 ---
 Biểu đồ tuần tự chức năng xem dashboard
-![Tuần tự Xem Dashboard](QuanLyTaiChinhCaNhan_Nhom06/images/TT-xemdashboard.png)
+![Tuần tự Xem Dashboard](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-xemdashboard.png)
 ---
 Biểu đồ tuần tự chức năng xem biểu đồ danh mục
-![Tuần tự Xem biểu đồ danh mục](QuanLyTaiChinhCaNhan_Nhom06/images/TT-xembieudodanhmuc.png)
+![Tuần tự Xem biểu đồ danh mục](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-xembieudodanhmuc.png)
 ---
 Biểu đồ tuần tự chức năng xem dòng tiền theo thời gian
-![Tuần tự Xem dòng tiền theo thời gian](QuanLyTaiChinhCaNhan_Nhom06/images/TT-xemdongtien.png)
+![Tuần tự Xem dòng tiền theo thời gian](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-xemdongtien.png)
 ---
 Biểu đồ tuần tự chức năng lọc báo cáo
-![Tuần tự Lọc báo cáo](QuanLyTaiChinhCaNhan_Nhom06/images/TT-locbaocao.png)
+![Tuần tự Lọc báo cáo](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-locbaocao.png)
 ---
 Biểu đồ tuần tự chức năng cập nhật hồ sơ cá nhân
-![Tuần tự Cập nhật hồ sơ cá nhân](QuanLyTaiChinhCaNhan_Nhom06/images/TT-capnhathoso.png)
+![Tuần tự Cập nhật hồ sơ cá nhân](QuanLyTaiChinhCaNhan_Nhom06/Resources/images/TT-capnhathoso.png)
 ---
 
 
