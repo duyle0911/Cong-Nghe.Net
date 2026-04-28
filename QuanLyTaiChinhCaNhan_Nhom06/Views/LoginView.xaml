@@ -17,7 +17,7 @@
         </Border.Effect>
 
         <Grid>
-            <!-- Background Gradient -->
+          
             <Grid.Background>
                 <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
                     <GradientStop Color="#667EEA" Offset="0"/>

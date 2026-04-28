@@ -163,7 +163,7 @@ namespace QuanLyTaiChinhCaNhan_Nhom06.Services.Implementations
             }
             catch
             {
-                // Silently fail if categories already exist
+               
             }
         }
 

@@ -6,9 +6,6 @@ namespace QuanLyTaiChinhCaNhan_Nhom06.Helpers
 {
     public static class CategoryHelper
     {
-        /// <summary>
-        /// Lấy danh mục mặc định cho giao dịch chi tiêu
-        /// </summary>
         public static List<(string Name, string Color, string Icon)> GetDefaultExpenseCategories()
         {
             return new List<(string, string, string)>
@@ -23,10 +20,6 @@ namespace QuanLyTaiChinhCaNhan_Nhom06.Helpers
                 ("Khác", "#607D8B", "More")
             };
         }
-
-        /// <summary>
-        /// Lấy danh mục mặc định cho giao dịch thu nhập
-        /// </summary>
         public static List<(string Name, string Color, string Icon)> GetDefaultIncomeCategories()
         {
             return new List<(string, string, string)>
@@ -39,10 +32,6 @@ namespace QuanLyTaiChinhCaNhan_Nhom06.Helpers
                 ("Khác", "#795548", "More")
             };
         }
-
-        /// <summary>
-        /// Lấy màu theo loại giao dịch
-        /// </summary>
         public static string GetCategoryColor(TransactionType type)
         {
             return type == TransactionType.Income ? "#4CAF50" : "#FF5722";

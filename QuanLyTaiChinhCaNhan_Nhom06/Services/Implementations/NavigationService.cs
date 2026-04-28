@@ -24,7 +24,7 @@ namespace QuanLyTaiChinhCaNhan_Nhom06.Services
 
         public void NavigateToMainWindow()
         {
-            // TODO: Implement navigation to main window
+           
         }
 
         public void NavigateToRegister()

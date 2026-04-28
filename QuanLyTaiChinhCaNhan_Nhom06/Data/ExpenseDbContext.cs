@@ -19,7 +19,6 @@ namespace QuanLyTaiChinhCaNhan_Nhom06.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            // User Configuration
             modelBuilder.Entity<User>(entity =>
             {
                 entity.HasKey(e => e.Id);
@@ -53,7 +52,6 @@ namespace QuanLyTaiChinhCaNhan_Nhom06.Data
                     .OnDelete(DeleteBehavior.Cascade);
             });
 
-            // Category Configuration
             modelBuilder.Entity<Category>(entity =>
             {
                 entity.HasKey(e => e.Id);
@@ -67,7 +65,6 @@ namespace QuanLyTaiChinhCaNhan_Nhom06.Data
                     .OnDelete(DeleteBehavior.Cascade);
             });
 
-            // Transaction Configuration
             modelBuilder.Entity<Transaction>(entity =>
             {
                 entity.HasKey(e => e.Id);
@@ -80,7 +77,6 @@ namespace QuanLyTaiChinhCaNhan_Nhom06.Data
                     .OnDelete(DeleteBehavior.NoAction);
             });
 
-            // Budget Configuration
             modelBuilder.Entity<Budget>(entity =>
             {
                 entity.HasKey(e => e.Id);
@@ -90,7 +86,6 @@ namespace QuanLyTaiChinhCaNhan_Nhom06.Data
                 entity.Property(e => e.Notes).HasMaxLength(500);
             });
 
-            // Goal Configuration
             modelBuilder.Entity<Goal>(entity =>
             {
                 entity.HasKey(e => e.Id);

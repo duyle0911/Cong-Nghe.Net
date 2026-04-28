@@ -1,7 +1,7 @@
-using System.Threading.Tasks; // ✅ FIX
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
-using Microsoft.Extensions.DependencyInjection; // ✅ FIX
+using Microsoft.Extensions.DependencyInjection; 
 using QuanLyTaiChinhCaNhan_Nhom06.Commands;
 using QuanLyTaiChinhCaNhan_Nhom06.Services.Interfaces;
 
@@ -48,7 +48,7 @@ namespace QuanLyTaiChinhCaNhan_Nhom06.ViewModels
 
         private void OpenRegister()
         {
-            var view = App.Services.GetRequiredService<Views.RegisterView>(); // ✅ FIX DI
+            var view = App.Services.GetRequiredService<Views.RegisterView>(); 
             view.Show();
         }
     }
