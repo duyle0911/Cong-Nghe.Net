@@ -49,6 +49,28 @@
       "frameworks": {
         "net10.0-windows7.0": {
           "targetAlias": "net10.0-windows",
+          "dependencies": {
+            "MaterialDesignColors": {
+              "target": "Package",
+              "version": "[5.3.1, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[5.3.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
